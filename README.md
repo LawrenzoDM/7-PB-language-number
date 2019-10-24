@@ -18,7 +18,7 @@ let age = 25;
 * Create a variable with the value of "10.05". Convert it to a number. 
 
 #### 3. Remain There
-Check if the following numbers are even numbers. If so, print true. If not, print false.
+Check if the following numbers are even numbers. Use a ternary and if the number is even print `30 is even`, else print that it is odd.
 * 30
 * 939
 * 40.9
